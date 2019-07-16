@@ -1,0 +1,13 @@
+.bash_logout
+.config
+.git
+.*.swp
+.jupyter
+LICENSE
+.local
+.profile
+.viminfo
+.gitconfig
+*.ipyb_checkpoints*
+.ipython
+.ipynb_checkpoints
