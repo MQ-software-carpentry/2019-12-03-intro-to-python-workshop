@@ -32,9 +32,9 @@ In this repository you will find all the workshop materials used during the two 
    
    then update the Launch Binder link (below in Step 3) to use your own GitHub username.
    
-   The below *Commit changes* heading, add a comment (eg, "Updated Binder Link") then click the **Commit Changes** button.
+   Then below *Commit changes* heading, add a comment (eg, "Updated Binder Link") then click the **Commit Changes** button.
 
-3. **Launch Binder and Load My Repository**
+3. **Launch Binder and load your repository**
 
    We will be using Binder (https://mybinder.org) to run all the tools we will be using in this workshop.  
    
@@ -44,9 +44,10 @@ In this repository you will find all the workshop materials used during the two 
    
    To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username.
    
-   [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
-   [Launch Binder MQ-SWC](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
+   [Launch Binder using original repository](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
+   
+   [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
    [Launch Binder](https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
    
