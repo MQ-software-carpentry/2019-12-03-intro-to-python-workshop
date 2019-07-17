@@ -1,9 +1,9 @@
 .bash_logout
 .config
+.cache
 .git
 .*.swp
 .jupyter
-LICENSE
 .local
 .profile
 .viminfo
