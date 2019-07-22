@@ -4,7 +4,7 @@ Welcome to the Macquarie University - Software Carpentry, Introduction to Python
 
 In this repository you will find all the workshop materials used during the two day workshop.
 
-## Here's our Workshop Collaboration Document
+## Here's our Workshop Collaboration Google Doc
 
 ![Google Doc Icon](https://img.icons8.com/color/48/000000/google-docs.png)
 [https://tinyurl.com/y629s5ta](https://tinyurl.com/y629s5ta)
@@ -43,11 +43,12 @@ In this repository you will find all the workshop materials used during the two 
    Binder will *clone* (download a copy of) your workshop repository to provide you access to the lesson epsides and examples inside a Jupyter Lab. 
    
    To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username.
-   
-   [Dev](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
+       
+   [dev]:(https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
-   [![CircleCI]Launch My Python Workshop on Binder](https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
-   - *don't click this link until you have inserted your GitHub own username*
    
+   [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
+  
+   [Launch My Python Workshop on Binder] - *don't click this link until you have inserted **your** GitHub own username*
    
