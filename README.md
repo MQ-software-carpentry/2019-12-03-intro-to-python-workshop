@@ -42,13 +42,13 @@ In this repository you will find all the workshop materials used during the two 
    
    Binder will *clone* (download a copy of) your workshop repository to provide you access to the lesson epsides and examples inside a Jupyter Lab. 
    
-   To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username.
+   To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username:
        
-   [dev]:(https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
+   [dev](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
    
    [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
   
-   [Launch My Python Workshop on Binder] - *don't click this link until you have inserted **your** GitHub own username*
+   Don't click -> **[Launch My Python Workshop on Binder]** <- until you have inserted **your** GitHub own username*
    
