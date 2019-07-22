@@ -45,6 +45,8 @@ In this repository you will find all the workshop materials used during the two 
    To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username.
    
    
+   <button name="button" onclick="https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb" style="color: red">Dev</button>
+   
    [Dev](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
