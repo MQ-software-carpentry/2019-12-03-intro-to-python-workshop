@@ -1,5 +1,6 @@
 # Git Lession Notes
 
+Feel free to add additional notes to this file: remember to add, commit and push.
 
 ## Quick summary (from http://swcarpentry.github.io/git-novice/reference.html)
 ### What is version control
