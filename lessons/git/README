@@ -1,5 +1,6 @@
 # Git Lession Notes
 
+
 ## Quick summary (from http://swcarpentry.github.io/git-novice/reference.html)
 ### What is version control
  * Version control is like an unlimited ‘undo’.
@@ -25,3 +26,10 @@
  * git pull copies changes from a remote repository to a local repository.
  * git diff displays differences between commits.
  * git checkout recovers old versions of files.
+
+
+## Useful resources
+ * https://www.youtube.com/watch?v=3m7BgIvC-uQ
+ * http://justinhileman.info/article/git-pretty/ - read this when you have a problem
+ * http://gitready.com/
+ * https://blog.plover.com/prog/two-things-about-git.html
