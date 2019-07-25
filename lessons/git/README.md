@@ -23,7 +23,8 @@
  * git add puts files in the staging area.
  * git commit saves the staged content as a new commit in the local repository.
  * git push copies changes from a local repository to a remote repository.
- * git pull copies changes from a remote repository to a local repository.
+ * git fetch copies changes from a remote repository to a local repository.
+ * git merge gets the changes from a branch and adds them to current branch.
  * git diff displays differences between commits.
  * git checkout recovers old versions of files.
 
