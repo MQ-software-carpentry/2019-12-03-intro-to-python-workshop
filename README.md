@@ -9,7 +9,7 @@ In this repository you will find all the workshop materials used during the two 
 ## Here's our Workshop Collaboration Google Doc
 
 ![Google Doc Icon](https://img.icons8.com/color/48/000000/google-docs.png)
-[https://tinyurl.com/SWC20191103](https://tinyurl.com/SWC20191103)
+[https://tinyurl.com/SWC20191103](tinyurl.com/SWC20191103)
 
 
 ## Getting Started
