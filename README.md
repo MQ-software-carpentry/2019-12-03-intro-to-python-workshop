@@ -1,5 +1,3 @@
-# DRAFT
-
 # Introduction to Python Workshop
 
 Welcome to the Macquarie University - Software Carpentry, Introduction to Python Workshop.
@@ -20,7 +18,7 @@ In this repository you will find all the workshop materials used during the two 
    
    ![Fork this Repo](images/github-fork.png)
    
-   A copy of this repository will be created in your personal GitHub account, and GitHub automatically take you there.
+   A copy of this repository will be created in your personal GitHub account, and GitHub will automatically take you there.
    
    Note the change in repository URL and title once you have created your own fork. 
    
@@ -34,7 +32,7 @@ In this repository you will find all the workshop materials used during the two 
    
    then update the "Launch My Python Workshop on Binder" link (below in Step 3) to use your own GitHub username.
    
-   Then below the heading *Commit changes*, add a comment (eg, "Updated My Binder Link") then click the **Commit Changes** button.
+   Then below the heading *Commit changes*, add a comment (eg, "Update My Binder Link") then click the **Commit Changes** button.
 
 3. **Launch Binder and load your repository**
 
@@ -42,13 +40,14 @@ In this repository you will find all the workshop materials used during the two 
    
    Binder offers a free service that enables us to run Jupyter Lab in the cloud and access it via a web browser. We will be using Jupyter Lab for all our Python, Shell and Git exercises.
    
-   Binder will *clone* (download a copy of) your workshop repository to provide you access to the lesson epsides and examples inside a Jupyter Lab. 
+   Binder will *clone* (download a copy of) your workshop repository to provide you access to the lesson episodes and examples inside a Jupyter Lab. 
    
    To ensure Binder clones *your* respository, you will need to update the link below to include your GitHub username:
    
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
    
-   [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-12-03-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
+   [Launch My Python Workshop on Binder]:
+   https://mybinder.org/v2/gh/**PUT-YOUR-GITHUB-USERNAME-HERE**/2019-12-03-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
    
    Don't click -> **[Launch My Python Workshop on Binder]** <- until you have added ***your*** GitHub username.
    
